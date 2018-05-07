@@ -1,2 +1,4 @@
-# light-internet-micro-controller
+# Light Internet Micro-Controller
 Código do Micro-controlador do Projeto de IoT envolvendo sistemas embarcados e desenvolvimento android. Pré-requisito para a disciplina de sistemas embarcados do curso de Pós-Graduação em Desenvolvimento Web e Mobile do IFPE.
+
+Carlos Adriano B. Silva
